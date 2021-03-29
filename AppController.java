@@ -11,7 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.example.demo.business.ProductService;
 import com.example.demo.model.Alien;
-
+//Update the button name
 @Controller
 public class AppController {
 
